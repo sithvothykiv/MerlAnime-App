@@ -1,1 +1,3 @@
 # MerlAnime
+
+## GetX State Manager 
